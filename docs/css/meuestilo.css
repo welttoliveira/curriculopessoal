@@ -1,0 +1,58 @@
+body {
+    background-color: #1c1c1a;
+}
+div{
+    border-bottom: 3px solid;
+    margin: 3.5%;
+    color: #ededec;
+    margin: 15px 10px 50px 15px;
+}
+section{
+    margin: 15px 10px 50px 15px;
+}
+h1{
+    font-family: Comic sans MS;
+    font-size: 34px;
+}
+h2{
+    font-family: Comic sans MS;
+    font-size: 26px;
+}
+h3{
+    font-family: Comic sans MS;
+    font-size: 20px;
+}
+h4, p{
+    font-family: Comic sans MS;
+    font-size: 15px;
+}
+ul{
+    font-family: Comic sans MS;
+    list-style: none;
+    margin: 10px 10px 50px 0px;
+}
+footer {
+    text-align: center;
+    color: #ededec;
+}
+nav a {
+    color: #ededec;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: #5a13b7;
+}
+.container{
+    background-color:#1c1c1a;
+    padding: 20px;
+    font-size: 20px;
+}
+header {
+    display: flex;
+    flex-direction: column;  
+    justify-content: center; 
+    background-color: #1c1c1a;  
+    color: #ededec;          
+    height: 110px;        
+    padding: 22px;
+  }
